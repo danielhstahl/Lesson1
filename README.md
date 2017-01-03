@@ -25,7 +25,7 @@ Sign up.  I'll then add you as an editor to the repository.
 `git checkout -b "new branch name"`
 
 ##to checkout an existing branch
-`git checkout "existingbranch"
+`git checkout "existingbranch"`
 
 ##to view existing branches
 `git branch`
