@@ -32,7 +32,9 @@ Sign up.  I'll then add you as an editor to the repository.
 
 ##to push code back to the github repository
 `git add .`
+
 `git commit -m "purpose of commit"`
+
 `git push origin [branchname]`
 
 
