@@ -38,4 +38,11 @@ Sign up.  I'll then add you as an editor to the repository.
 `git push origin [branchname]`
 
 
-Matt's version  of the README.md file. Successfully authenticated and pushed my branch to GitHub. Now I need to figure out how to adjust the API example to use the FRED data. Or perhaps Zillow. 
+Matt's version  of the README.md file. Successfully authenticated and pushed my branch to GitHub. Now I need to figure out how to adjust the API example to use the FRED data. Or perhaps Zillow.
+
+My FRED API key:
+a317e3bc1c064490ef1f196c1d4b8dab
+
+Resolved 'http' error by changing code to "https.get(".
+Added my FRED API key to pull info correctly. 
+Completed assignment and pushed my branch to the repository.
